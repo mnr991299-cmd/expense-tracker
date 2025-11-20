@@ -14,11 +14,12 @@ This is a Python-based Expense Tracker that helps users manage their daily expen
 - Persistent storage using `expenses.txt`  
 
 
-## How to Use
+## How to Use 
 1. Make sure Python 3.x is installed on your computer.  
 2. Open the terminal or command prompt in the project folder.  
-3. Run the program with the command:  
-```bash
+3. Run the program with the command:
+    
+
 
 4. Follow the menu options to add, view, filter, and sort expenses.
 
@@ -26,9 +27,6 @@ This is a Python-based Expense Tracker that helps users manage their daily expen
 5. All data is automatically saved in expenses.txt.
 
 
-
-
----
 
 Directory Structure
 
@@ -41,7 +39,6 @@ Expense-Tracker/
 └── recordings/             # Screen recordings (optional)
 
 
----
 
 Screenshots
 
@@ -58,9 +55,6 @@ filter_category.png – Filtering expenses by category
 filter_month.png – Filtering expenses by month
 
 
-
----
-
 Requirements
 
 Python 3.x
@@ -68,8 +62,6 @@ Python 3.x
 No additional libraries required
 
 
-
----
 
 Notes
 
@@ -83,8 +75,6 @@ Include screenshots and recordings in their respective folders for submission.
 
 
 
----
-
 Future Enhancements
 
 Export expenses to CSV for Excel analysis
@@ -96,23 +86,12 @@ Monthly budget notifications
 Adding a GUI interface for better user experience
 
 
-
----
-
 About Me
 
-Name: Your Name
+Name: Mummadi Nageshwar reddy
 
-College: VIT
+College: VIT bhopal
 
-Course: [Your Course Name]
+Course: [Introduction to problem solving technique]
 
 This project helped me learn Python file handling, functions, and organizing data efficiently.
-
-
----
-
-This version is *human-readable, detailed, and professional*, perfect for your GitHub repository and college submission.  
-
-If you want, I can also *make a ready-to-use folder structure template* with this README and placeholders for screenshots so you can just drop your images and push everything to GitHub.  
-
