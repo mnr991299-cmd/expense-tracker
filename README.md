@@ -42,48 +42,48 @@ Expense-Tracker/
 
 ## Screenshots
 
--The /screenshots folder contains images showing how the program works:
+- The /screenshots folder contains images showing how the program works:
 
--add_expense.png – Adding a new expense
+- a dd_expense.png – Adding a new expense
 
--show_all.png – Viewing all expenses
+- show_all.png – Viewing all expenses
 
--total_expenses.png – Displaying total expenses
+- total_expenses.png – Displaying total expenses
 
--filter_category.png – Filtering expenses by category
+- filter_category.png – Filtering expenses by category
 
--filter_month.png – Filtering expenses by month
+- filter_month.png – Filtering expenses by month
 
 
 ## Requirements
 
--Python 3.x
+- Python 3.x
 
-some additional libraries required
+- some additional libraries required
 
 
 
 ## Notes
 
--Make sure main.py and expense_manager.py are in the same folder.
+- Make sure main.py and expense_manager.py are in the same folder.
 
--Use consistent category names (like Food, Travel, Bills) for accurate filtering.
+- Use consistent category names (like Food, Travel, Bills) for accurate filtering.
 
--The program automatically creates expenses.txt if it doesn’t exist.
+- The program automatically creates expenses.txt if it doesn’t exist.
 
--Include screenshots and recordings in their respective folders for submission.
+- Include screenshots and recordings in their respective folders for submission.
 
 
 
 ## Future Enhancements
 
--Export expenses to CSV for Excel analysis
+- Export expenses to CSV for Excel analysis
 
--Graphical visualization of expenses
+- Graphical visualization of expenses
 
--Monthly budget notifications
+- Monthly budget notifications
 
--Adding a GUI interface for better user experience
+- Adding a GUI interface for better user experience
 
 
 ## About Me
@@ -95,6 +95,7 @@ College: VIT bhopal
 Course: [Introduction to problem solving technique]
 
 This project helped me learn Python file handling, functions, and organizing data efficiently.
+
 
 
 
