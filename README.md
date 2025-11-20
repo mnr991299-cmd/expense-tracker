@@ -28,19 +28,19 @@ This is a Python-based Expense Tracker that helps users manage their daily expen
 
 
 
-Directory Structure
+##Directory Structure
 
 Expense-Tracker/
-├── main.py                 # Main program file
-├── expense_manager.py      # Functions to manage expenses
-├── README.md               # Project documentation
-├── expenses.txt            # Stores all expense data (auto-generated)
-├── screenshots/            # Screenshots of program
-└── recordings/             # Screen recordings (optional)
+├── main.py                 Main program file
+├── expense_manager.py       Functions to manage expenses
+├── README.md                Project documentation
+├── expenses.txt             Stores all expense data (auto-generated)
+├── screenshots/             Screenshots of program
+└── recordings/              Screen recordings (optional)
 
 
 
-Screenshots
+##Screenshots
 
 The /screenshots folder contains images showing how the program works:
 
@@ -55,7 +55,7 @@ filter_category.png – Filtering expenses by category
 filter_month.png – Filtering expenses by month
 
 
-Requirements
+##Requirements
 
 Python 3.x
 
@@ -63,7 +63,7 @@ No additional libraries required
 
 
 
-Notes
+##Notes
 
 Make sure main.py and expense_manager.py are in the same folder.
 
@@ -75,7 +75,7 @@ Include screenshots and recordings in their respective folders for submission.
 
 
 
-Future Enhancements
+##Future Enhancements
 
 Export expenses to CSV for Excel analysis
 
@@ -86,7 +86,7 @@ Monthly budget notifications
 Adding a GUI interface for better user experience
 
 
-About Me
+##About Me
 
 Name: Mummadi Nageshwar reddy
 
@@ -95,3 +95,4 @@ College: VIT bhopal
 Course: [Introduction to problem solving technique]
 
 This project helped me learn Python file handling, functions, and organizing data efficiently.
+
