@@ -19,13 +19,16 @@ This is a Python-based Expense Tracker that helps users manage their daily expen
 2. Open the terminal or command prompt in the project folder.  
 3. Run the program with the command:  
 ```bash
-python main.py
 
 4. Follow the menu options to add, view, filter, and sort expenses.
 
 
 5. All data is automatically saved in expenses.txt.
 
+
+
+
+---
 
 Directory Structure
 
@@ -37,6 +40,8 @@ Expense-Tracker/
 ├── screenshots/            # Screenshots of program
 └── recordings/             # Screen recordings (optional)
 
+
+---
 
 Screenshots
 
@@ -64,6 +69,8 @@ No additional libraries required
 
 
 
+---
+
 Notes
 
 Make sure main.py and expense_manager.py are in the same folder.
@@ -76,6 +83,8 @@ Include screenshots and recordings in their respective folders for submission.
 
 
 
+---
+
 Future Enhancements
 
 Export expenses to CSV for Excel analysis
@@ -87,12 +96,23 @@ Monthly budget notifications
 Adding a GUI interface for better user experience
 
 
+
+---
+
 About Me
 
-Name:Mummadi Nageshwar reddy
+Name: Your Name
 
-College: VIT bhopal
+College: VIT
 
-Course: [Introduction to problem solving technique]
+Course: [Your Course Name]
 
 This project helped me learn Python file handling, functions, and organizing data efficiently.
+
+
+---
+
+This version is *human-readable, detailed, and professional*, perfect for your GitHub repository and college submission.  
+
+If you want, I can also *make a ready-to-use folder structure template* with this README and placeholders for screenshots so you can just drop your images and push everything to GitHub.  
+
